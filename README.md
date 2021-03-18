@@ -1,2 +1,2 @@
 # myfirstsite
-its just my first wev-site
+its just my first web-site
